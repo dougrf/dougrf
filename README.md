@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Solidity, Pynthon, C#, HTML and JavaScript**
 
-- 🌱 I’m currently **games and news frameworks**
+- 🌱 I’m currently dedicating to **games and news frameworks**
 
 - 💬 Ask me about **smart contract, blockchain,solidity...**
 
